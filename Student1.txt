@@ -1,0 +1,8 @@
+Rainbow School
+Name      age 	Dept 	Batch 	Grade
+Ram       18  	MCA  	2022  	90.0
+Sitha     19  	MCA  	2022  	91.0
+Raj       20  	MCA  	2022  	92.0
+Ravi      21  	MCA  	2022  	93.0
+Kumar     22  	MCA  	2022  	94.0
+Raju      23    MCA     2022    95.0
